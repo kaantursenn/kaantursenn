@@ -21,8 +21,8 @@
 ---
 
 ### 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-333.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-
+[![kaantursenn](https://img.shields.io/badge/GitHub-333.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaantursenn)  
+[![vlkad](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)]
 
 ---
 
