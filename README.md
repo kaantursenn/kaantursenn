@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 High school student at **Otomotiv Endüstrisi İhracatçıları Birliği Vocational and Technical Anatolian High School**  
+- 🎓 High school student at **Automotive Industry Exporters Association Vocational and Technical Anatolian High School**  
 - 💼 Co-Founder of **@3dotsoftware**  
 - 💻 Currently learning **JavaScript**  
 - 🔥 Passionate about coding, technology, and innovation  
