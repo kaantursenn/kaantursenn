@@ -1,6 +1,4 @@
-Here's a cool README.md for your GitHub profile:
-
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Kaan 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
@@ -10,7 +8,7 @@ Here's a cool README.md for your GitHub profile:
 
 ### 🚀 About Me  
 - 🎓 High school student at **Otomotiv Endüstrisi İhracatçıları Birliği Vocational and Technical Anatolian High School**  
-- 💼 Co-Founder of **3DotSoftware**  
+- 💼 Co-Founder of **@3dotsoftware**  
 - 💻 Currently learning **JavaScript**  
 - 🔥 Passionate about coding, technology, and innovation  
 
@@ -18,7 +16,7 @@ Here's a cool README.md for your GitHub profile:
 
 ### 🛠️ Tech Stack  
 - **Languages:** JavaScript, HTML, CSS  
-- **Tools & Platforms:** VS Code, GitHub, Node.js  
+- **Tools & Platforms:** VS Code, GitHub
 
 ---
 
@@ -29,7 +27,4 @@ Here's a cool README.md for your GitHub profile:
 
 ---
 
-⭐️ *Feel free to check out my projects and contributions!* 🚀
-
-Replace [Your Name] and yourusername with your actual info. Let me know if you want any modifications!
-
+⭐️ *Feel free to check out my projects and contributions!* ⭐
